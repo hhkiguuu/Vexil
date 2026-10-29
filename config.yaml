@@ -12,21 +12,9 @@
 # CORE SELFBOT SETTINGS
 # ====================================================================
 selfbot:
-  # Your Discord account token (REQUIRED)
-  # See docs/GET_TOKEN.md for instructions on how to get this
-  # NEVER share your token with anyone!
-  token: "OTA2MTcxNDg3MzE1MTc3NTEz.Grijyh.gtrGOmxrznr1OXCcT-lWePf-IV3ytKiV9seXfU"
-
-  # Command prefix - what you type before commands
-  # Example: if prefix is "+", you use "+help"
-  prefix: "+"
-
-  # Your Discord status (online, idle, dnd, invisible)
-  # dnd = Do Not Disturb (recommended for selfbots)
-  status: "dnd"
-
-  # Toggle the DM logs on console
-  dm_logs: false
+  token: "OTA2MTcxNDg3MzE1MTc3NTEz.Grijyh.gtrGOmxrznr1OXCcT-lWePf-IV3ytKiV9seXfU"  # Replace with your token
+  prefix: "+"                      # Your command prefix
+  status: "dnd"                    # Your status (dnd recommended)
 
 # ====================================================================
 # RELATIONSHIP LOGGING SETTINGS
