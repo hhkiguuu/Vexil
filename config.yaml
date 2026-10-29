@@ -15,7 +15,7 @@ selfbot:
   # Your Discord account token (REQUIRED)
   # See docs/GET_TOKEN.md for instructions on how to get this
   # NEVER share your token with anyone!
-  token: "YOUR_TOKEN_HERE"
+  token: "MTU0OTkyMTI3NDU1MjI1ODYyMw.GTp9lA.6k9m7CRlSlwlTiaDN0WLSG4-QTP0c-SIejR9l0"
 
   # Command prefix - what you type before commands
   # Example: if prefix is "+", you use "+help"
