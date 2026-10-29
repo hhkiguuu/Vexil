@@ -12,7 +12,7 @@
 # CORE SELFBOT SETTINGS
 # ====================================================================
 selfbot:
-  token: "OTA2MTcxNDg3MzE1MTc3NTEz.Grijyh.gtrGOmxrznr1OXCcT-lWePf-IV3ytKiV9seXfU"  # Replace with your token
+  token: "MTU2NTMwMDkyNzA5MzgwNTE1MQ.GpMxVA.y1LlQTGw12bSKhfYmzByXHxsP4lYisI5dnPuUk"  # Replace with your token
   prefix: "+"                      # Your command prefix
   status: "dnd"                    # Your status (dnd recommended)
 
